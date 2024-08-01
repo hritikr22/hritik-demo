@@ -1,2 +1,2 @@
 # hritik-demo
-THis ia my first Git Repository
+This ia my first Git Repository
