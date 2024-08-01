@@ -1,2 +1,3 @@
 # hritik-demo
-This ia my first Git Repository
+This ia my first Git Repository.
+Author- Hritik Raj
